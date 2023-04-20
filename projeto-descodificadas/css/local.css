@@ -1,0 +1,10 @@
+.nav {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    margin: 10px;
+    word-spacing: 5px;
+}
+
+.body {
+    background-image: url("../img/imagem.jpeg");
+}
